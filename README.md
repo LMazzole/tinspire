@@ -1,8 +1,8 @@
 # Ti-nspire
 Sammlung von Programmen für Ti-Nspire CX CAS
 
-##Programme
-####lm\init()
+## Programme
+### lm\init()
 Gibt den aktuellen Modus zurück (Winkel, Reell oder Komplex)  
 Definiert:
 - e0  
@@ -11,7 +11,7 @@ Definiert:
   
 <img src="https://github.com/LMazzole/tinspire/blob/master/images/init.PNG?raw=true" height=150 />  
 
-##HowTo
+## HowTo
 .tns file downloaden.  
 .tns file in MyLib abspeichern  
 Der Standardspeicherort lautet:  
@@ -22,4 +22,4 @@ Der Standardspeicherort lautet:
 Biblithek aktualisieren  
     doc -> Bibliotheken aktualisieren
 
-Aufruf mit lm\init()
+
