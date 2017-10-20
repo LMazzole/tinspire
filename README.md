@@ -11,6 +11,9 @@ Definiert:
   
 <img src="https://github.com/LMazzole/tinspire/blob/master/images/init.PNG?raw=true" height=150 />  
 
+### lm\arctan2(x,y)
+[Arctan2](https://de.wikipedia.org/wiki/Arctan2)
+
 ## HowTo
 .tns file downloaden.  
 .tns file in MyLib abspeichern  
@@ -20,6 +23,6 @@ Der Standardspeicherort lautet:
 •	Handheld: MyLib  
 .tns auf den Rechner laden
 Biblithek aktualisieren  
-    doc -> Bibliotheken aktualisieren
+     doc -> Bibliotheken aktualisieren
 
 
